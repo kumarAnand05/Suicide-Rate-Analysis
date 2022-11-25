@@ -18,7 +18,7 @@ The overview included a basic average of the overall sucide rate and the number 
 
 ![new](https://user-images.githubusercontent.com/111251492/204026711-f89a4e71-1b40-4150-813b-ff22e93b505b.png)
 
-### Summary of the fidings
+### Summary of the findings
 > It was found that the average suicide rate around the globe was 211.22K per year.
 > Most of the people who commited suicide were male and almost accounted for 3/4th of the total sucides.
 > Most of the suicide case were realted to the age group of 34-54 Years.
