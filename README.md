@@ -1,4 +1,4 @@
-# Suicide-Rate-Analysis
+# Suicide Rate Analysis
 by Anand Kumar
 ## Dataset
 > The dataset used in the following project was downloaded from Kaggle. [Download Link](https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016).
