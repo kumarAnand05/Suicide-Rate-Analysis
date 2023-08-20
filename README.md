@@ -10,7 +10,7 @@ After the dataset was pre-processed and was ready for generating insights. I use
 ### 1. Overview
 The overview included a basic overview of the overall yearly sucide rate and the number of male and female suicide rate around the globe according to the used dataset.
 
-(![Overview](https://github.com/kumarAnand05/Suicide-Rate-Analysis/assets/111251492/6d29bd7b-b874-4b42-bf42-4f6fb7fbb4cd)
+![Overview](https://github.com/kumarAnand05/Suicide-Rate-Analysis/assets/111251492/6d29bd7b-b874-4b42-bf42-4f6fb7fbb4cd)
 ### 2. Analysis
 > The second tab of the Power Bi report included an interactice 3D map which was made using a custom map shape in filled shape representation. All the ciities are set to auto zoom which gives a cool effect of moving globe.
 > I added pie chart to show distribution of death from suicide across various age groups.
